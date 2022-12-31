@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c0041736804b5c4fa3ed17858f9d908, type: 3}
+  m_Name: KilikDenklem
+  m_EditorClassIdentifier: 
+  Birlestirilecekler:
+  - {fileID: 11400000, guid: c621bba3309df874892307e4e19b3ef7, type: 2}
+  - {fileID: 11400000, guid: 4ddf965349a98944a943f6dd7aac4c34, type: 2}
+  Urun:
+  - {fileID: 11400000, guid: d8d1051500211ff43a24da4682dc670c, type: 2}

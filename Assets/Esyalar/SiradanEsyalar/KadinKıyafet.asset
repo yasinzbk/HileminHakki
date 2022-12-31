@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c58c5db477ac4e44a4a22cf93d6136a, type: 3}
+  m_Name: "KadinK\u0131yafet"
+  m_EditorClassIdentifier: 
+  isim: "K\u0131yafet"
+  namen: Jersey
+  ikon: {fileID: 7382111986159717081, guid: 81308bff114d13f489c9027638b6ebba, type: 3}
+  toplandiMi: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c0041736804b5c4fa3ed17858f9d908, type: 3}
+  m_Name: DopingDenklemi
+  m_EditorClassIdentifier: 
+  Birlestirilecekler:
+  - {fileID: 11400000, guid: 5673b44e8d29ce540bd50a42f0827146, type: 2}
+  - {fileID: 11400000, guid: 0f519cd5bae17a94f8dec8e8d683054f, type: 2}
+  Urun:
+  - {fileID: 11400000, guid: 92bb8d42e1184b04ea1b2ed3f26cb1c0, type: 2}

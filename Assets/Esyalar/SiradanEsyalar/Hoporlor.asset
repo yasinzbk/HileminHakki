@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c58c5db477ac4e44a4a22cf93d6136a, type: 3}
+  m_Name: Hoporlor
+  m_EditorClassIdentifier: 
+  isim: "Hoparl\xF6r"
+  namen: Speaker
+  ikon: {fileID: -2225609559313441558, guid: 5e5ac1a1cbebcc646ba39c9ecc47a0de, type: 3}
+  toplandiMi: 0

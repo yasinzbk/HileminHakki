@@ -1,0 +1,4878 @@
+fileFormatVersion: 2
+guid: 2eeb44ec80a68c041a4e2643b4e19755
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2098666695770819049
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_0"
+  - first:
+      213: 2858679026970234488
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_1"
+  - first:
+      213: 8830620091415602062
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_2"
+  - first:
+      213: -4939693778871488727
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_3"
+  - first:
+      213: -4967670389387502289
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_4"
+  - first:
+      213: -3810206026650946678
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_5"
+  - first:
+      213: -1573506548878932290
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_6"
+  - first:
+      213: -7771481585264936300
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_7"
+  - first:
+      213: 1143814091371310576
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_8"
+  - first:
+      213: 9020736271978215616
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_9"
+  - first:
+      213: -8317995644222448457
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_10"
+  - first:
+      213: 9168840846568441333
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_11"
+  - first:
+      213: -1058831803302529294
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_12"
+  - first:
+      213: 2504659076440506546
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_13"
+  - first:
+      213: -1097891694979099470
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_14"
+  - first:
+      213: 6896189950747044053
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_15"
+  - first:
+      213: 8855818793155544094
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_16"
+  - first:
+      213: -5304427173178130351
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_17"
+  - first:
+      213: 6425868558024388346
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_18"
+  - first:
+      213: 5261717560328068576
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_19"
+  - first:
+      213: 4683024999300809090
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_20"
+  - first:
+      213: -4839105782538079517
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_21"
+  - first:
+      213: -76632328016482216
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_22"
+  - first:
+      213: 2045397475451740911
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_23"
+  - first:
+      213: 6135156085655256444
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_24"
+  - first:
+      213: 623893042704977498
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_25"
+  - first:
+      213: 5878698471200973841
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_26"
+  - first:
+      213: 5708916990666492664
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_27"
+  - first:
+      213: 5208196214514079207
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_28"
+  - first:
+      213: 14482781874333721
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_29"
+  - first:
+      213: 3701779228206120199
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_30"
+  - first:
+      213: 3469350282719014006
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_31"
+  - first:
+      213: -6407019959630816342
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_32"
+  - first:
+      213: -3456175726019773272
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_33"
+  - first:
+      213: -1418401663046881399
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_34"
+  - first:
+      213: 4161970930157329568
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_35"
+  - first:
+      213: -4768201131947068722
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_36"
+  - first:
+      213: 3861557310353017998
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_37"
+  - first:
+      213: 6528700338073513849
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_38"
+  - first:
+      213: -522193826388146365
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_39"
+  - first:
+      213: 5311691616079225063
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_40"
+  - first:
+      213: -6657095638966616752
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_41"
+  - first:
+      213: 6120029666105054312
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_42"
+  - first:
+      213: -9000891125183086900
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_43"
+  - first:
+      213: -6539276330067609380
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_44"
+  - first:
+      213: -8594176454480493290
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_45"
+  - first:
+      213: 4104463355728282530
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_46"
+  - first:
+      213: 4344246656084401563
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_47"
+  - first:
+      213: -401131929621689585
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_48"
+  - first:
+      213: -1300708932132296740
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_49"
+  - first:
+      213: 4108799512476577395
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_50"
+  - first:
+      213: 7364596112177388867
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_51"
+  - first:
+      213: 373699753658598826
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_52"
+  - first:
+      213: 1315083312204616640
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_53"
+  - first:
+      213: 4255718603962445080
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_54"
+  - first:
+      213: -1700476357114965130
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_55"
+  - first:
+      213: 1461233288881909922
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_56"
+  - first:
+      213: 3294319462196808374
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_57"
+  - first:
+      213: -5445804714419120003
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_58"
+  - first:
+      213: -5472287890292781681
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_59"
+  - first:
+      213: -4170385061910907496
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_60"
+  - first:
+      213: -4702704495446581452
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_61"
+  - first:
+      213: 5137370515273917197
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_62"
+  - first:
+      213: 8610505065197729800
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_63"
+  - first:
+      213: -4535072853024521740
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_64"
+  - first:
+      213: 5956184714940333692
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_65"
+  - first:
+      213: -6753463935462677115
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_66"
+  - first:
+      213: -2580412837398135942
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_67"
+  - first:
+      213: 815718735709171825
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_68"
+  - first:
+      213: 8067118414599046506
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_69"
+  - first:
+      213: 8972479740731289274
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_70"
+  - first:
+      213: -1921039478755737652
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_71"
+  - first:
+      213: -5702381484343177447
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_72"
+  - first:
+      213: -8659557265270733473
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_73"
+  - first:
+      213: -4793090798822890045
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_74"
+  - first:
+      213: -1445571953433054318
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_75"
+  - first:
+      213: 5351628133838816851
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_76"
+  - first:
+      213: 7263411471855877756
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_77"
+  - first:
+      213: 8930019091201709668
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_78"
+  - first:
+      213: 5943692972911564392
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_79"
+  - first:
+      213: -7693107421608652769
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_80"
+  - first:
+      213: -3124494134578553008
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_81"
+  - first:
+      213: -5203128423131010364
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_82"
+  - first:
+      213: -8273018745829664813
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_83"
+  - first:
+      213: -3977960562606400697
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_84"
+  - first:
+      213: 8146945288092254079
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_85"
+  - first:
+      213: -8056050126839527670
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_86"
+  - first:
+      213: -7814893026137721918
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_87"
+  - first:
+      213: -1494477012335122304
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_88"
+  - first:
+      213: 8517569492809190209
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_89"
+  - first:
+      213: -6302219526139156809
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_90"
+  - first:
+      213: 4822792845743509119
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_91"
+  - first:
+      213: 8850278908113922327
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_92"
+  - first:
+      213: 4394225799861781548
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_93"
+  - first:
+      213: 5821077965723566450
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_94"
+  - first:
+      213: -2000759721377634574
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_95"
+  - first:
+      213: 4516442647798894276
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_96"
+  - first:
+      213: 7855078533136973816
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_97"
+  - first:
+      213: -1417572410073463377
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_98"
+  - first:
+      213: 405182717057832054
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_99"
+  - first:
+      213: -4834093881594796463
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_100"
+  - first:
+      213: -6109985836997437391
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_101"
+  - first:
+      213: 1564203215720444136
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_102"
+  - first:
+      213: 7223950209899562631
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_103"
+  - first:
+      213: -4130408609249197437
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_104"
+  - first:
+      213: 7626432820519743222
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_105"
+  - first:
+      213: 5144937257654134404
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_106"
+  - first:
+      213: 5221494791568976284
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_107"
+  - first:
+      213: -963130099318445583
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_108"
+  - first:
+      213: 875601400986109617
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_109"
+  - first:
+      213: -5402992114530851240
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_110"
+  - first:
+      213: -4314311322335263777
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_111"
+  - first:
+      213: 2230234469617039495
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_112"
+  - first:
+      213: -2726188430638801944
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_113"
+  - first:
+      213: -5842283618141391396
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_114"
+  - first:
+      213: -7936455470129450397
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_115"
+  - first:
+      213: -5440672439687947903
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_116"
+  - first:
+      213: -7131311602502676814
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_117"
+  - first:
+      213: -7929217959243179588
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_118"
+  - first:
+      213: -6027939036202447881
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_119"
+  - first:
+      213: 7435173005019074142
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_120"
+  - first:
+      213: -386439311791646408
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_121"
+  - first:
+      213: -749746381259774963
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_122"
+  - first:
+      213: -1416564527642601072
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_123"
+  - first:
+      213: -78269604665966924
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_124"
+  - first:
+      213: 1197193697537683809
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_125"
+  - first:
+      213: -755837100382507866
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_126"
+  - first:
+      213: -4971559171491350539
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_127"
+  - first:
+      213: -4678345729215147943
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_128"
+  - first:
+      213: 4860734317339592407
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_129"
+  - first:
+      213: 2240971338965317861
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_130"
+  - first:
+      213: 595545792833480935
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_131"
+  - first:
+      213: 8443655640324252061
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_132"
+  - first:
+      213: -2394865432872086466
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_133"
+  - first:
+      213: 5538242587459682138
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_134"
+  - first:
+      213: 3060449345827121319
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_135"
+  - first:
+      213: 495404092468938611
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_136"
+  - first:
+      213: -6001158870129507510
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_137"
+  - first:
+      213: 7604651704574875428
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_138"
+  - first:
+      213: 4295053355497135067
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_139"
+  - first:
+      213: -976881757560339259
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_140"
+  - first:
+      213: -4734720109832615660
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_141"
+  - first:
+      213: -8414176627995939339
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_142"
+  - first:
+      213: -4918288937219673757
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_143"
+  - first:
+      213: -984828909776842733
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_144"
+  - first:
+      213: -5163342628013952298
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_145"
+  - first:
+      213: 8469315022993979311
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_146"
+  - first:
+      213: 1282499560863517164
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_147"
+  - first:
+      213: 5092075006021705454
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_148"
+  - first:
+      213: 9115613094709523097
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_149"
+  - first:
+      213: 1451753731298831754
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_150"
+  - first:
+      213: -4762608137024261470
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_151"
+  - first:
+      213: -294669248582432870
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_152"
+  - first:
+      213: 1624778282782627721
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_153"
+  - first:
+      213: -156337534296850010
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_154"
+  - first:
+      213: 4675488756233474082
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_155"
+  - first:
+      213: -2865846514250366094
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_156"
+  - first:
+      213: -8193473165440920932
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_157"
+  - first:
+      213: 1890883755291627704
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_158"
+  - first:
+      213: -7881563800106356112
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_159"
+  - first:
+      213: 5901953526566115876
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_160"
+  - first:
+      213: 6785504381920835083
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_161"
+  - first:
+      213: 8675994606164010346
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_162"
+  - first:
+      213: -2542376722251870018
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_163"
+  - first:
+      213: 8906878493076371017
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_164"
+  - first:
+      213: -1333102620142739163
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_165"
+  - first:
+      213: -305427220429069385
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_166"
+  - first:
+      213: -1093798336685755305
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_167"
+  - first:
+      213: -3208637508357911195
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_168"
+  - first:
+      213: -2742357333860529131
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_169"
+  - first:
+      213: -3857333761952655489
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_170"
+  - first:
+      213: 8235495610120266697
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_171"
+  - first:
+      213: 1112024708640385727
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_172"
+  - first:
+      213: 4292479578426019903
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_173"
+  - first:
+      213: 7425211801063385069
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_174"
+  - first:
+      213: 6773671687075684940
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_175"
+  - first:
+      213: -5981073009377488982
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_176"
+  - first:
+      213: 8460069259102385557
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_177"
+  - first:
+      213: 7662436964688543803
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_178"
+  - first:
+      213: 4043114808973977033
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_179"
+  - first:
+      213: -272847398793137092
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_180"
+  - first:
+      213: 3028454165291557139
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_181"
+  - first:
+      213: -9185483296092469606
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_182"
+  - first:
+      213: -7473582658973735095
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_183"
+  - first:
+      213: 1026631810356990800
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_184"
+  - first:
+      213: 410937591753247541
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_185"
+  - first:
+      213: -2600182561166000986
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_186"
+  - first:
+      213: 2825690339593083679
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_187"
+  - first:
+      213: 773772411402816827
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_188"
+  - first:
+      213: -3724922818806581819
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_189"
+  - first:
+      213: 3753603756903173706
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_190"
+  - first:
+      213: -8216884964881339858
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_191"
+  - first:
+      213: -231651965101175933
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_192"
+  - first:
+      213: -4387367210977192348
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_193"
+  - first:
+      213: 6619451243805886849
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_194"
+  - first:
+      213: -2718175049165285133
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_195"
+  - first:
+      213: 611363746220591536
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_196"
+  - first:
+      213: -2251951375100858697
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_197"
+  - first:
+      213: -7818074362194802673
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_198"
+  - first:
+      213: 5537089057554325248
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_199"
+  - first:
+      213: 8065656068480999478
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_200"
+  - first:
+      213: 7487067545383784997
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_201"
+  - first:
+      213: -5942940893241358959
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_202"
+  - first:
+      213: -7834933663630431193
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_203"
+  - first:
+      213: 3222274139665740137
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_204"
+  - first:
+      213: 6129390309002221543
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_205"
+  - first:
+      213: -901008157833683754
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_206"
+  - first:
+      213: 7669221541474851500
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_207"
+  - first:
+      213: 7440608818736159198
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_208"
+  - first:
+      213: -1650287282686673458
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_209"
+  - first:
+      213: 3367556588580022353
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_210"
+  - first:
+      213: -2524715376635758615
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_211"
+  - first:
+      213: 2646712774164351537
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_212"
+  - first:
+      213: -1808842736102650295
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_213"
+  - first:
+      213: 1241405375980866005
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_214"
+  - first:
+      213: 5692646419602062726
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_215"
+  - first:
+      213: -4541624095457576206
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_216"
+  - first:
+      213: 6095154346941266719
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_217"
+  - first:
+      213: 1735328309619370980
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_218"
+  - first:
+      213: -3801345146101727856
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_219"
+  - first:
+      213: 7648319501628472361
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_220"
+  - first:
+      213: -4373005024907410351
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_221"
+  - first:
+      213: -149758729506427323
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_222"
+  - first:
+      213: -33289951844401285
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_223"
+  - first:
+      213: -8468282824448557920
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_224"
+  - first:
+      213: 6260033672746613974
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_225"
+  - first:
+      213: 1653307571944587520
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_226"
+  - first:
+      213: 51050295947711851
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_227"
+  - first:
+      213: -6335305342478918332
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_228"
+  - first:
+      213: 2890988360091276931
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_229"
+  - first:
+      213: 6162660511717359523
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_230"
+  - first:
+      213: 3749151201986786537
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_231"
+  - first:
+      213: -3475034898753550529
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_232"
+  - first:
+      213: 694245150069632861
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_233"
+  - first:
+      213: -4290823407942128827
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_234"
+  - first:
+      213: 8832224232705418939
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_235"
+  - first:
+      213: -8551817997734653473
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_236"
+  - first:
+      213: 3668930386035959557
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_237"
+  - first:
+      213: -3511818178472545527
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_238"
+  - first:
+      213: -7242128960554060310
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_239"
+  - first:
+      213: 688424246705652043
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_240"
+  - first:
+      213: -2484802162250637544
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_241"
+  - first:
+      213: -3467081180039119238
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_242"
+  - first:
+      213: 1711594032368426326
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_243"
+  - first:
+      213: 4195068808662908540
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_244"
+  - first:
+      213: -4948372866172418071
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_245"
+  - first:
+      213: -6897420228329940383
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_246"
+  - first:
+      213: 6553090372155943718
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_247"
+  - first:
+      213: -393310840501004056
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_248"
+  - first:
+      213: -1373221283623174524
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_249"
+  - first:
+      213: -5527833472407699115
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_250"
+  - first:
+      213: -1357629545894749288
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_251"
+  - first:
+      213: -2558731466528855179
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_252"
+  - first:
+      213: 269217529690367598
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_253"
+  - first:
+      213: -6713921215087910770
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_254"
+  - first:
+      213: 204681362888360835
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_255"
+  - first:
+      213: -8181637078361053255
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_256"
+  - first:
+      213: 6995994495625839596
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_257"
+  - first:
+      213: 9165585444782015010
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_258"
+  - first:
+      213: -8176730123383644422
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_259"
+  - first:
+      213: 7879597454263256804
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_260"
+  - first:
+      213: -8833642148022189281
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_261"
+  - first:
+      213: 7376284762815635201
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_262"
+  - first:
+      213: 109453830325983615
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_263"
+  - first:
+      213: -5373299725558391017
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_264"
+  - first:
+      213: -4922913005084219458
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_265"
+  - first:
+      213: -7193589459479523624
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_266"
+  - first:
+      213: -4200958093251670258
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_267"
+  - first:
+      213: 1135713791056591760
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_268"
+  - first:
+      213: 871548005531138346
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_269"
+  - first:
+      213: -898317394151236989
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_270"
+  - first:
+      213: 6374588772181979054
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_271"
+  - first:
+      213: -3455925750319280566
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_272"
+  - first:
+      213: 3396966815424248405
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_273"
+  - first:
+      213: -4001784931095650366
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_274"
+  - first:
+      213: -4871226626606264581
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_275"
+  - first:
+      213: 150832727951931841
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_276"
+  - first:
+      213: 7535870084934011352
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_277"
+  - first:
+      213: 6190401511883239899
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_278"
+  - first:
+      213: -8883758132848033776
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_279"
+  - first:
+      213: -3393024827735533582
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_280"
+  - first:
+      213: 2841528473972008583
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_281"
+  - first:
+      213: -3836875195198283805
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_282"
+  - first:
+      213: 3507694430695153395
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_283"
+  - first:
+      213: -5317449456954091127
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_284"
+  - first:
+      213: -8586385624985216437
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_285"
+  - first:
+      213: -3568576017712449250
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_286"
+  - first:
+      213: 6929605409020058886
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_287"
+  - first:
+      213: 1067157128043384013
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_288"
+  - first:
+      213: 5798309858240673823
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_289"
+  - first:
+      213: 8243298743744495066
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_290"
+  - first:
+      213: -4927723533426823334
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_291"
+  - first:
+      213: 3341208545239342975
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_292"
+  - first:
+      213: -2665348281169071907
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_293"
+  - first:
+      213: -1506670954801619383
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_294"
+  - first:
+      213: -8788982893420113663
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_295"
+  - first:
+      213: -7289829670704880245
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_296"
+  - first:
+      213: 7575393074185472088
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_297"
+  - first:
+      213: -6275525418930733884
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_298"
+  - first:
+      213: 8651547282006617344
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_299"
+  - first:
+      213: 4086283838345802687
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_300"
+  - first:
+      213: 6838024733910526812
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_301"
+  - first:
+      213: -580767326374354134
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_302"
+  - first:
+      213: 184041993130283744
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_303"
+  - first:
+      213: 5111708907302778554
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_304"
+  - first:
+      213: 2030346051366186862
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_305"
+  - first:
+      213: -3041894810991073992
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_306"
+  - first:
+      213: -4021692638646609324
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_307"
+  - first:
+      213: 122334359069034776
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_308"
+  - first:
+      213: 7637490308445742672
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_309"
+  - first:
+      213: -9196850524843335987
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_310"
+  - first:
+      213: -5169791758393314130
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_311"
+  - first:
+      213: 2418037683289572201
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_312"
+  - first:
+      213: 7819121936539364460
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_313"
+  - first:
+      213: 8663262320272227046
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_314"
+  - first:
+      213: -3881225337002628452
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_315"
+  - first:
+      213: -3520190341790311496
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_316"
+  - first:
+      213: 7094064578155048572
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_317"
+  - first:
+      213: 7659162872700760887
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_318"
+  - first:
+      213: -1204067810682470208
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_319"
+  - first:
+      213: 8423033767439133529
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_320"
+  - first:
+      213: 8405883506114466272
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_321"
+  - first:
+      213: 1784391102013128948
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_322"
+  - first:
+      213: -2177215854429767336
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_323"
+  - first:
+      213: -727221935290996890
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_324"
+  - first:
+      213: 3496420979059208577
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_325"
+  - first:
+      213: 7481482595399222043
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_326"
+  - first:
+      213: -7239950084486893714
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_327"
+  - first:
+      213: -8576805405814217036
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_328"
+  - first:
+      213: 276466124582876255
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_329"
+  - first:
+      213: -5126234108543526595
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_330"
+  - first:
+      213: 2257325519452117204
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_331"
+  - first:
+      213: -4316812385307376903
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_332"
+  - first:
+      213: 1887252880518058033
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_333"
+  - first:
+      213: -1170713891306032472
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_334"
+  - first:
+      213: -2682698549747787141
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_335"
+  - first:
+      213: -863705827972598534
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_336"
+  - first:
+      213: 1746673074672328736
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_337"
+  - first:
+      213: -4676566553163572648
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_338"
+  - first:
+      213: 3047905600681932721
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_339"
+  - first:
+      213: -8523417309798614906
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_340"
+  - first:
+      213: -8767639641070394343
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_341"
+  - first:
+      213: 4993162605951397830
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_342"
+  - first:
+      213: 3237471988284539803
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_343"
+  - first:
+      213: 5617767907091447654
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_344"
+  - first:
+      213: -5047797049851678477
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_345"
+  - first:
+      213: 1053357550937399586
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_346"
+  - first:
+      213: 8801076738846941685
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_347"
+  - first:
+      213: -8785976063832855009
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_348"
+  - first:
+      213: 2004976756033534048
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_349"
+  - first:
+      213: -3814989761182624949
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_350"
+  - first:
+      213: -2416563659643266594
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_351"
+  - first:
+      213: 8871175845208302773
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_352"
+  - first:
+      213: -7208387354812149429
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_353"
+  - first:
+      213: 6924862519096143531
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_354"
+  - first:
+      213: 7257893873407734148
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_355"
+  - first:
+      213: -7285700771739715448
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_356"
+  - first:
+      213: 8943489461189221905
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_357"
+  - first:
+      213: -6329561324337977357
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_358"
+  - first:
+      213: 4457755617840942822
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_359"
+  - first:
+      213: -4815030874730633722
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_360"
+  - first:
+      213: 3372463748688818300
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_361"
+  - first:
+      213: -8982629860884645198
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_362"
+  - first:
+      213: 3248086498920370866
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_363"
+  - first:
+      213: -7814240546481263368
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_364"
+  - first:
+      213: 3503866636989108368
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_365"
+  - first:
+      213: 2006123256523750294
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_366"
+  - first:
+      213: -262287265399087149
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_367"
+  - first:
+      213: -7868662701461003561
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_368"
+  - first:
+      213: -538585879378240347
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_369"
+  - first:
+      213: -9175081357925583186
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_370"
+  - first:
+      213: -5089162546552013414
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_371"
+  - first:
+      213: 2302646922107510193
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_372"
+  - first:
+      213: 1530049961642300695
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_373"
+  - first:
+      213: -4202033685646569193
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_374"
+  - first:
+      213: -3163134729793963988
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_375"
+  - first:
+      213: -2599306607096937044
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_376"
+  - first:
+      213: 8205694768022626251
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_377"
+  - first:
+      213: -980341770933055927
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_378"
+  - first:
+      213: -1969166387703665230
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_379"
+  - first:
+      213: 3167858990121806215
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_380"
+  - first:
+      213: -8505841717293237983
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_381"
+  - first:
+      213: -8591116509253027365
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_382"
+  - first:
+      213: 3548029585183740749
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_383"
+  - first:
+      213: -3546820626112329408
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_384"
+  - first:
+      213: -288642731004546246
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_385"
+  - first:
+      213: 5863864339730128909
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_386"
+  - first:
+      213: 2743621519780001189
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_387"
+  - first:
+      213: -8917548070541590887
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_388"
+  - first:
+      213: 7489588744836625134
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_389"
+  - first:
+      213: 2253750049646345705
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_390"
+  - first:
+      213: -791577513824785384
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_391"
+  - first:
+      213: -3991977136037792328
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_392"
+  - first:
+      213: -9053649152903873003
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_393"
+  - first:
+      213: -853121958785617691
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_394"
+  - first:
+      213: 7189768960696711030
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_395"
+  - first:
+      213: -1327296215959428852
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_396"
+  - first:
+      213: 8066659351793861217
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_397"
+  - first:
+      213: -5866526261298937499
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_398"
+  - first:
+      213: 700872091318413208
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_399"
+  - first:
+      213: -5365891829026319068
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_400"
+  - first:
+      213: -4939648477236949425
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_401"
+  - first:
+      213: -7932929527794040766
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_402"
+  - first:
+      213: 2308722112746383211
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_403"
+  - first:
+      213: -2868313948895214873
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_404"
+  - first:
+      213: 4807542116141440576
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_405"
+  - first:
+      213: -5114816468175594666
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_406"
+  - first:
+      213: 2792509051492288890
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_407"
+  - first:
+      213: -7159354271347296653
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_408"
+  - first:
+      213: -8662786285892358513
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_409"
+  - first:
+      213: 2014666376784779966
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_410"
+  - first:
+      213: 4509523688863141182
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_411"
+  - first:
+      213: -3935747101900735492
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_412"
+  - first:
+      213: -4540481238631640950
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_413"
+  - first:
+      213: -3467639059171390238
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_414"
+  - first:
+      213: -3329262872330197266
+    second: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_415"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71633a862c900e2e0800000000000000
+      internalID: -2098666695770819049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_1"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e8b69dd611ca720800000000000000
+      internalID: 2858679026970234488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_2"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83214fbf2aac8a70800000000000000
+      internalID: 8830620091415602062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_3"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f68230eaea27bb0800000000000000
+      internalID: -4939693778871488727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_4"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd457c91a4f0bb0800000000000000
+      internalID: -4967670389387502289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_5"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83fa6c5ecd6f1bc0800000000000000
+      internalID: -3810206026650946678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_6"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6025e6128c92ae0800000000000000
+      internalID: -1573506548878932290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_7"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3bcb5ca6262490800000000000000
+      internalID: -7771481585264936300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_8"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde54d1bd4afdf00800000000000000
+      internalID: 1143814091371310576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_9"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83ebf68d7103d70800000000000000
+      internalID: 9020736271978215616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_10"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcdfde380b809c80800000000000000
+      internalID: -8317995644222448457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_11"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5cdcddb244e3f70800000000000000
+      internalID: 9168840846568441333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_12"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63447b5164e41f0800000000000000
+      internalID: -1058831803302529294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_13"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c1b6e82652c220800000000000000
+      internalID: 2504659076440506546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_14"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b45beef15183c0f0800000000000000
+      internalID: -1097891694979099470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_15"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d865edf83034bf50800000000000000
+      internalID: 6896189950747044053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14c341b54036ea70800000000000000
+      internalID: 8855818793155544094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_17"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150c9cd0793e266b0800000000000000
+      internalID: -5304427173178130351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_18"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe256668654d2950800000000000000
+      internalID: 6425868558024388346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_19"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed1acb4e30650940800000000000000
+      internalID: 5261717560328068576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_20"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814995dc627df040800000000000000
+      internalID: 4683024999300809090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_21"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e27741fdea08dcb0800000000000000
+      internalID: -4839105782538079517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_22"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850344ebd4fbfeef0800000000000000
+      internalID: -76632328016482216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_23"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe228ccba26b26c10800000000000000
+      internalID: 2045397475451740911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_24"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbe0754f3742550800000000000000
+      internalID: 6135156085655256444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_25"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8444ba6388a800800000000000000
+      internalID: 623893042704977498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_26"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114e095ec15559150800000000000000
+      internalID: 5878698471200973841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_27"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4ed081c52a3f40800000000000000
+      internalID: 5708916990666492664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_28"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e555a6ecda374840800000000000000
+      internalID: 5208196214514079207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_29"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918aafc6304733000800000000000000
+      internalID: 14482781874333721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_30"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d352e589c5f5330800000000000000
+      internalID: 3701779228206120199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_31"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c2ed263bb952030800000000000000
+      internalID: 3469350282719014006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab1e55ea41b517a0800000000000000
+      internalID: -6407019959630816342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_33"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac73412d723900d0800000000000000
+      internalID: -3456175726019773272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_34"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6445d333d05ce0800000000000000
+      internalID: -1418401663046881399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_35"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac9789828a42c930800000000000000
+      internalID: 4161970930157329568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_36"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2fda06552f3ddb0800000000000000
+      internalID: -4768201131947068722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_37"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c87631ae1079530800000000000000
+      internalID: 3861557310353017998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_38"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f28dfed5a9a9a50800000000000000
+      internalID: 6528700338073513849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_39"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3478b3a4b7bc0c8f0800000000000000
+      internalID: -522193826388146365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_40"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0a2dcd16be6b940800000000000000
+      internalID: 5311691616079225063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_41"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db79389ce3d93a0800000000000000
+      internalID: -6657095638966616752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_42"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8645b075e86bee450800000000000000
+      internalID: 6120029666105054312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_43"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccefe7dd539661380800000000000000
+      internalID: -9000891125183086900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_44"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8333a03d2df35a0800000000000000
+      internalID: -6539276330067609380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_45"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6150aad6c0a5bb880800000000000000
+      internalID: -8594176454480493290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_46"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3cac7fcabf5f830800000000000000
+      internalID: 4104463355728282530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_47"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd690215dd94c30800000000000000
+      internalID: 4344246656084401563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b05d2a2a4ee6af0800000000000000
+      internalID: -401131929621689585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_49"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a3102e14f2fde0800000000000000
+      internalID: -1300708932132296740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_50"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee6722363650930800000000000000
+      internalID: 4108799512476577395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_51"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d5e8c052d443660800000000000000
+      internalID: 7364596112177388867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_52"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c87d22f5af2500800000000000000
+      internalID: 373699753658598826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_53"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3100a0e4d104210800000000000000
+      internalID: 1315083312204616640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_54"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de335c5895f0b30800000000000000
+      internalID: 4255718603962445080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_55"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673563143c1b668e0800000000000000
+      internalID: -1700476357114965130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_56"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a038cd2fe7574410800000000000000
+      internalID: 1461233288881909922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_57"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba85e8c816c7bd20800000000000000
+      internalID: 3294319462196808374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_58"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7896e0277d9c64b0800000000000000
+      internalID: -5445804714419120003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_59"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d4d6e38278e04b0800000000000000
+      internalID: -5472287890292781681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_60"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8957430c1e0df16c0800000000000000
+      internalID: -4170385061910907496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_61"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f16496d23acbeb0800000000000000
+      internalID: -4702704495446581452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_62"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03a772c34b9b4740800000000000000
+      internalID: 5137370515273917197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_63"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ffc38cb8ae7770800000000000000
+      internalID: 8610505065197729800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c4fc944f2011c0800000000000000
+      internalID: -4535072853024521740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_65"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e31a6e07e98a250800000000000000
+      internalID: 5956184714940333692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_66"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585e5530550e642a0800000000000000
+      internalID: -6753463935462677115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_67"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb60d2238803cd0800000000000000
+      internalID: -2580412837398135942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_68"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17073964ed3025b00800000000000000
+      internalID: 815718735709171825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_69"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654037e47924ff60800000000000000
+      internalID: 8067118414599046506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_70"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6da439c6a48c70800000000000000
+      internalID: 8972479740731289274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_71"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf334da5c81755e0800000000000000
+      internalID: -1921039478755737652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_72"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc5f3a0421dd0b0800000000000000
+      internalID: -5702381484343177447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_73"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55826b2c8213d780800000000000000
+      internalID: -8659557265270733473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_74"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e7f730558b7db0800000000000000
+      internalID: -4793090798822890045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_75"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293fa52a7fb40fbe0800000000000000
+      internalID: -1445571953433054318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_76"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356037ffe6dc44a40800000000000000
+      internalID: 5351628133838816851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_77"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e777d1042dcc460800000000000000
+      internalID: 7263411471855877756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_78"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d888dc0dcdeb70800000000000000
+      internalID: 8930019091201709668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_79"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661160944d3c7250800000000000000
+      internalID: 5943692972911564392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_80"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1058145f879c3590800000000000000
+      internalID: -7693107421608652769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_81"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f57ad832193a4d0800000000000000
+      internalID: -3124494134578553008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_82"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caa98a3446cac7b0800000000000000
+      internalID: -5203128423131010364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_83"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7dca27845503d80800000000000000
+      internalID: -8273018745829664813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_84"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b1557c1f17bc8c0800000000000000
+      internalID: -3977960562606400697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_85"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ff74d3393cf0170800000000000000
+      internalID: 8146945288092254079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_86"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074df8a719233090800000000000000
+      internalID: -8056050126839527670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_87"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c33263a23ceb8390800000000000000
+      internalID: -7814893026137721918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_88"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08827ca431d824be0800000000000000
+      internalID: -1494477012335122304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_89"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b8890635c743670800000000000000
+      internalID: 8517569492809190209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_90"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6e1f74bb40a88a0800000000000000
+      internalID: -6302219526139156809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_91"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e46db7a800ee240800000000000000
+      internalID: 4822792845743509119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_92"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192341b6c182da70800000000000000
+      internalID: 8850278908113922327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_93"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c244e97551d6bfc30800000000000000
+      internalID: 4394225799861781548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_94"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2718ec4819f98c050800000000000000
+      internalID: 5821077965723566450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_95"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6606642afdb34e0800000000000000
+      internalID: -2000759721377634574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_96"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4a76b8a0adae30800000000000000
+      internalID: 4516442647798894276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_97"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fffc62de48d20d60800000000000000
+      internalID: 7855078533136973816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_98"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54d265765c35ce0800000000000000
+      internalID: -1417572410073463377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_99"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741c5fc88f7f9500800000000000000
+      internalID: 405182717057832054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_100"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15627a01a39d9ecb0800000000000000
+      internalID: -4834093881594796463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_101"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138991bd048f43ba0800000000000000
+      internalID: -6109985836997437391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_102"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e07a85898a25b510800000000000000
+      internalID: 1564203215720444136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_103"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7860c281170a04460800000000000000
+      internalID: 7223950209899562631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_104"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3828c74f047dda6c0800000000000000
+      internalID: -4130408609249197437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_105"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fea5726e3886d960800000000000000
+      internalID: 7626432820519743222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_106"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a5224d2d766740800000000000000
+      internalID: 5144937257654134404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_107"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99650829d9767840800000000000000
+      internalID: 5221494791568976284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_108"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f923ad074642a2f0800000000000000
+      internalID: -963130099318445583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_109"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68c96c5d2c62c00800000000000000
+      internalID: 875601400986109617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_110"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e6215c47b405b0800000000000000
+      internalID: -5402992114530851240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_111"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3c2c5e5bc7024c0800000000000000
+      internalID: -4314311322335263777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_112"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fa5f0f6263fe10800000000000000
+      internalID: 2230234469617039495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_113"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9ef8f012aa2ad0800000000000000
+      internalID: -2726188430638801944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_114"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53997c00a0ceea0800000000000000
+      internalID: -5842283618141391396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_115"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627a3f8ccb0cd190800000000000000
+      internalID: -7936455470129450397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_116"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1895425fd39de74b0800000000000000
+      internalID: -5440672439687947903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_117"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bec43e71ed780d90800000000000000
+      internalID: -7131311602502676814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_118"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb999a0e642c5f190800000000000000
+      internalID: -7929217959243179588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_119"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb417b4265785ca0800000000000000
+      internalID: -6027939036202447881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_120"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e4cbf647a0f2760800000000000000
+      internalID: 7435173005019074142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_121"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839996d4e7713aaf0800000000000000
+      internalID: -386439311791646408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_122"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04606973ad5895f0800000000000000
+      internalID: -749746381259774963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_123"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0999170411a575ce0800000000000000
+      internalID: -1416564527642601072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_124"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bebc21953ee9eef0800000000000000
+      internalID: -78269604665966924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_125"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f11d23594d9010800000000000000
+      internalID: 1197193697537683809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_126"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aca3ab692ab285f0800000000000000
+      internalID: -755837100382507866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_127"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f73c632649710bb0800000000000000
+      internalID: -4971559171491350539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_128"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9505aa1a85d231fb0800000000000000
+      internalID: -4678345729215147943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_129"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c39cbb1cc47340800000000000000
+      internalID: 4860734317339592407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_130"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8fbd24f87891f10800000000000000
+      internalID: 2240971338965317861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_131"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e861554ebdc34800800000000000000
+      internalID: 595545792833480935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_132"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9120478114ed2570800000000000000
+      internalID: 8443655640324252061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_133"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e341cccc39ab3ced0800000000000000
+      internalID: -2394865432872086466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_134"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f79795a4acbdc40800000000000000
+      internalID: 5538242587459682138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_135"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a82a1f0776e87a20800000000000000
+      internalID: 3060449345827121319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_136"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c2e7b56700e600800000000000000
+      internalID: 495404092468938611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_137"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430f399dc997bca0800000000000000
+      internalID: -6001158870129507510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_138"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42711c32f66298960800000000000000
+      internalID: 7604651704574875428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_139"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb91c945481b9b30800000000000000
+      internalID: 4295053355497135067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_140"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48e0d973b6172f0800000000000000
+      internalID: -976881757560339259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_141"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419478e4525ea4eb0800000000000000
+      internalID: -4734720109832615660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_142"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd68e2efe6da3b80800000000000000
+      internalID: -8414176627995939339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_143"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b942154abebbb0800000000000000
+      internalID: -4918288937219673757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_144"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310573c035f2552f0800000000000000
+      internalID: -984828909776842733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_145"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b8938c3f1858b0800000000000000
+      internalID: -5163342628013952298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_146"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77f6c142d098570800000000000000
+      internalID: 8469315022993979311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_147"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce94ddd3e8a5cc110800000000000000
+      internalID: 1282499560863517164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_148"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee919f2d3faaa640800000000000000
+      internalID: 5092075006021705454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_149"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927f0420d9218e70800000000000000
+      internalID: 9115613094709523097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_150"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2a6fa35aa52410800000000000000
+      internalID: 1451753731298831754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_151"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b84cf121d7edb0800000000000000
+      internalID: -4762608137024261470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_152"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97430031ef19ebf0800000000000000
+      internalID: -294669248582432870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_153"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98717006d3f5c8610800000000000000
+      internalID: 1624778282782627721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_154"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a10d2347d394ddf0800000000000000
+      internalID: -156337534296850010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_155"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22011a2804ca2e040800000000000000
+      internalID: 4675488756233474082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_156"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c05977c77a38d0800000000000000
+      internalID: -2865846514250366094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_157"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d231219fea4e80800000000000000
+      internalID: -8193473165440920932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_158"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0d6b1d1c4cd3a10800000000000000
+      internalID: 1890883755291627704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_159"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072351c6b7f0f9290800000000000000
+      internalID: -7881563800106356112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_74": -4793090798822890045
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_60": -4170385061910907496
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_10": -8317995644222448457
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_8": 1143814091371310576
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_80": -7693107421608652769
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_142": -8414176627995939339
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_34": -1418401663046881399
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_143": -4918288937219673757
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_7": -7771481585264936300
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_16": 8855818793155544094
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_89": 8517569492809190209
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_4": -4967670389387502289
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_24": 6135156085655256444
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_51": 7364596112177388867
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_3": -4939693778871488727
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_29": 14482781874333721
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_55": -1700476357114965130
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_86": -8056050126839527670
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_133": -2394865432872086466
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_158": 1890883755291627704
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_156": -2865846514250366094
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_118": -7929217959243179588
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_111": -4314311322335263777
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_144": -984828909776842733
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_122": -749746381259774963
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_148": 5092075006021705454
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_103": 7223950209899562631
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_41": -6657095638966616752
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_32": -6407019959630816342
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_115": -7936455470129450397
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_15": 6896189950747044053
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_64": -4535072853024521740
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_50": 4108799512476577395
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_6": -1573506548878932290
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_129": 4860734317339592407
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_92": 8850278908113922327
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_126": -755837100382507866
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_66": -6753463935462677115
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_37": 3861557310353017998
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_5": -3810206026650946678
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_152": -294669248582432870
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_108": -963130099318445583
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_2": 8830620091415602062
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_54": 4255718603962445080
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_140": -976881757560339259
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_65": 5956184714940333692
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_107": 5221494791568976284
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_21": -4839105782538079517
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_63": 8610505065197729800
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_33": -3456175726019773272
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_42": 6120029666105054312
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_101": -6109985836997437391
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_25": 623893042704977498
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_11": 9168840846568441333
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_38": 6528700338073513849
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_146": 8469315022993979311
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_1": 2858679026970234488
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_88": -1494477012335122304
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_67": -2580412837398135942
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_43": -9000891125183086900
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_57": 3294319462196808374
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_105": 7626432820519743222
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_147": 1282499560863517164
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_113": -2726188430638801944
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_84": -3977960562606400697
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_94": 5821077965723566450
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_81": -3124494134578553008
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_124": -78269604665966924
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_17": -5304427173178130351
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_97": 7855078533136973816
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_150": 1451753731298831754
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_157": -8193473165440920932
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_153": 1624778282782627721
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_48": -401131929621689585
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_121": -386439311791646408
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_79": 5943692972911564392
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_73": -8659557265270733473
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_112": 2230234469617039495
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_76": 5351628133838816851
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_46": 4104463355728282530
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_106": 5144937257654134404
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_123": -1416564527642601072
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_98": -1417572410073463377
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_75": -1445571953433054318
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_104": -4130408609249197437
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_28": 5208196214514079207
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_47": 4344246656084401563
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_93": 4394225799861781548
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_68": 815718735709171825
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_56": 1461233288881909922
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_119": -6027939036202447881
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_110": -5402992114530851240
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_14": -1097891694979099470
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_35": 4161970930157329568
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_120": 7435173005019074142
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_132": 8443655640324252061
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_136": 495404092468938611
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_19": 5261717560328068576
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_62": 5137370515273917197
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_91": 4822792845743509119
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_71": -1921039478755737652
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_159": -7881563800106356112
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_18": 6425868558024388346
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_70": 8972479740731289274
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_44": -6539276330067609380
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_78": 8930019091201709668
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_31": 3469350282719014006
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_135": 3060449345827121319
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_69": 8067118414599046506
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_134": 5538242587459682138
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_13": 2504659076440506546
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_114": -5842283618141391396
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_72": -5702381484343177447
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_39": -522193826388146365
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_49": -1300708932132296740
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_20": 4683024999300809090
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_102": 1564203215720444136
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_23": 2045397475451740911
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_9": 9020736271978215616
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_26": 5878698471200973841
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_77": 7263411471855877756
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_36": -4768201131947068722
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_45": -8594176454480493290
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_145": -5163342628013952298
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_87": -7814893026137721918
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_0": -2098666695770819049
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_61": -4702704495446581452
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_95": -2000759721377634574
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_12": -1058831803302529294
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_141": -4734720109832615660
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_82": -5203128423131010364
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_138": 7604651704574875428
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_128": -4678345729215147943
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_27": 5708916990666492664
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_40": 5311691616079225063
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_100": -4834093881594796463
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_90": -6302219526139156809
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_131": 595545792833480935
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_130": 2240971338965317861
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_137": -6001158870129507510
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_52": 373699753658598826
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_109": 875601400986109617
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_155": 4675488756233474082
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_127": -4971559171491350539
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_53": 1315083312204616640
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_59": -5472287890292781681
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_139": 4295053355497135067
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_151": -4762608137024261470
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_22": -76632328016482216
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_96": 4516442647798894276
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_83": -8273018745829664813
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_125": 1197193697537683809
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_154": -156337534296850010
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_117": -7131311602502676814
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_149": 9115613094709523097
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_116": -5440672439687947903
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_58": -5445804714419120003
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_85": 8146945288092254079
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_30": 3701779228206120199
+      "orta(yar\u0131\u015F\u0131n oldu\u011Fu yer)_99": 405182717057832054
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
