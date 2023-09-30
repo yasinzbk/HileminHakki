@@ -117,7 +117,6 @@ public class EsyaBirlestirici : MonoBehaviour
     {
         if (esyalar.Count == bosYer && !dolduMu)
         {
-            Debug.Log("Mal FEyza Yer Yok");
 
             birlestiriciDolumVakti = Time.time;
 
